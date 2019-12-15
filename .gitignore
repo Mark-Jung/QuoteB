@@ -1,0 +1,9 @@
+env/
+__pycache__/
+*.conf
+deploy*
+migrations/
+./tests/*.db
+setup.sh
+tests/test.db
+
